@@ -4,6 +4,5 @@ def sudy_nebo_lichy(cislo):
     else:
         print("Číslo", cislo, "je liché")
 
-# Volání funkce
 sudy_nebo_lichy(5)
 sudy_nebo_lichy(1000000)
