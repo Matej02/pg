@@ -21,4 +21,4 @@ if __name__ == "__main__":
         print(f"Test {i}: {test_case}")
         result = process_strings(test_case)
         print("Výsledek:", result)
-        
+        print("-" * 30)
